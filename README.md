@@ -36,11 +36,10 @@ This tool was built to address inconsistent coding standards across 40+ legacy a
   - Nullable type requirements
   - Scope-aware validation (distinguishes class fields from local variables)
 
-- **Suppression Comments**
-  - `LINTER:SUPPRESS` or `NOSCAN` to skip specific violations
 
 ### Planned (Not Implemented)
 
+- Suppression comments (`LINTER:SUPPRESS` or `NOSCAN`)
 - HTML email reports with checkboxes
 - TFS integration for scheduled runs
 - SQL formatting validation
