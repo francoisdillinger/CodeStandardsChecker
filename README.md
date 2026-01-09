@@ -130,18 +130,9 @@ The project was presented to my team lead, who appreciated the initiative. Howev
 - Microsoft.CodeAnalysis.CSharp (Roslyn)
 - Console Application
 
-## Building
+## Building & Usage
 
-```bash
-dotnet restore
-dotnet build
-```
-
-## Usage
-
-```bash
-dotnet run -- "path/to/file.cs"
-```
+This project builds and runs in Visual Studio. Target files are not included in this repository as they contain proprietary code.
 
 ## License
 
