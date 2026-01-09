@@ -48,7 +48,7 @@ This tool was built to address inconsistent coding standards across 40+ legacy a
 
 ## Sample Output
 
-![Sample linter output](.\images\linter_output.png)
+![Sample linter output](./images/linter_output.png)
 
 *Lines 15 and 374 demonstrate context-aware validation—the same variable name requires different prefixes depending on whether it's a class-level field (`mobj`) or a local variable (`obj`).*
 
